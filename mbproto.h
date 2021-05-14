@@ -2198,10 +2198,6 @@ typedef struct
 #define ENRON_ADDR_FLOAT32_START 0x1B59U
 #define ENRON_ADDR_FLOAT32_STOP 0x1F3FU
 
-#ifdef __cplusplus
-PR_END_EXTERN_C
-#endif
-
 //-------------------- Application Addresses -----------------------------------
 #if defined(NOVUS_DR2A_USED)
 // %%%%%%%%%%% NOVUS DigiRail-2A Universal Analog Input Module %%%%%%%%%%%%%%%
